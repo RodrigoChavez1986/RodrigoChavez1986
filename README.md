@@ -1,5 +1,5 @@
 <div id="header" aling= "center">
-    <img src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+    <img src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
     <h1 align= "center"> Hola 👋 soy Rodrigo Chavez! Estudiante de Tecnicatura Universitaria en programación</h1>
 </div> 
     <h3 align= "center">
