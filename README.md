@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**RodrigoChavez1986/RodrigoChavez1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" aling= "center">
+<img src="<iframe src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width= "200">
+<h1 align= "center"> Hola soy Rodrigo Chavez!</h1>
+<h3>
+  ## Tecnologías
 
-Here are some ideas to get you started:
+Estas son algunas de las tecnologías con las que trabajo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: HTML, CSS, Sass, JavaScript.
+- Backend: Node.js, Javascrip, Java, phyton, Django
+- Bases de datos: MongoDB, PostgreSQL, MySQL
+- Otras herramientas: Git, Webpack, Babel
+
+- - 🚀 Siempre estoy aprendiendo y explorando nuevas tecnologías.
+</h3>
