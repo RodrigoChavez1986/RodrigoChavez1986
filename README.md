@@ -1,22 +1,26 @@
-<center>
-<div id="header" aling= "center">
-    <img src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-    <h1 align= "center"> Hola 👋 soy Rodrigo Chavez! Estudiante de Tecnicatura Universitaria en programación</h1>
-</div> 
-</center>
-    <h3 align= "center">
-Estas son algunas de las tecnologías con las que trabajo:
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="GIF de presentación">
+    <h1>Hola 👋, soy Rodrigo Chavez!</h1>
+    <p>Estudiante de Tecnicatura Universitaria en programación de la Universidad Tecnologica Nacional de San Rafael, provincia de Mendoza</p>
+</div>
 
-- Frontend: HTML, CSS, Sass, JavaScript.
-- Backend: Javascrip, Node.js, Java, phyton, Django.
-- Bases de datos: MongoDB, PostgreSQL, MySQL
-- Otras herramientas: Git, Webpack, Babel
-- 🚀 Siempre estoy aprendiendo y explorando nuevas tecnologías.</h3>
+<h1></h1>
 
-<h3>Puedes encontrarme en las siguientes redes sociales:
+<h3 align="center">Estas son algunas de las tecnologías con las que trabajo:</h3>
+<p></p>
+<p>- Frontend: HTML, CSS, Sass, JavaScript.</p>
+<p> - Backend: Node.js, Java, Python, Django.</p>
+<p> - Bases de datos: MongoDB, PostgreSQL, MySQL.</p>
+<p> - Otras herramientas: Git, GitHub. </p>
 
-- GitHub: [RodrigoChavez1986]([https://github.com/RodrigoChavez1986]))
-- LinkedIn: [Rodrigo Chavez](www.linkedin.com/in/-rodrigo-chavez)
+<h1></h1>
+
+<h3 align="center">Puedes encontrarme en las siguientes redes sociales:</h3>
+
+- GitHub: [Rodrigo Chavez](https://github.com/RodrigoChavez1986)  
+- LinkedIn: [Rodrigo Chavez](https://www.linkedin.com/in/rodrigo-chavez)
 - Correo electrónico: Rodrigo.chavez.1986@gmail.com
 
-¡Estoy emocionado por colaborar en nuevos proyectos y conocer a otros desarrolladores apasionados por la tecnología! No dudes en contactarme si quieres trabajar juntos en algo genial.</h3>
+<h1></h1>
+
+<h3 align="center">¡Estoy emocionado por colaborar en nuevos proyectos y conocer a otros desarrolladores apasionados por la tecnología! No dudes en contactarme si quieres trabajar juntos en algo genial.</h3>
