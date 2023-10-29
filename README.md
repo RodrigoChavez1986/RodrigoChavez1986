@@ -31,7 +31,7 @@ Gracias por considerar mi perfil, y no dudes en contactarme para conocer más ac
 <h3 align="center">Puedes encontrarme en las siguientes redes sociales:</h3>
 
 - GitHub: [Rodrigo Chavez](https://github.com/RodrigoChavez1986)  
-- LinkedIn: [Rodrigo Chavez](https://www.linkedin.com/in/rodrigo-chavez)
+- LinkedIn: [Rodrigo Chavez](https://www.linkedin.com/in/-rodrigo-chavez)
 - Correo electrónico: Rodrigo.chavez.1986@gmail.com
 
 <h1></h1>
